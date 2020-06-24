@@ -1,3 +1,4 @@
 <h1>Versículos do dia</h1>
 <p>App criado para gerar versículos do dia</p>
-![versiculos](https://user-images.githubusercontent.com/33499163/85622841-da4d9800-b63d-11ea-80f4-09efadb47399.jpeg)
+
+![versiculo-do-dia](https://user-images.githubusercontent.com/33499163/85623979-98bdec80-b63f-11ea-838e-7d333dc5b20e.png)
